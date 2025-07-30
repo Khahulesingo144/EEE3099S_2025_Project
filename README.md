@@ -83,7 +83,8 @@ This is a living project and may be updated throughout the course. Documentation
 
 ## 👥 Contributors
 
-This project is a collaborative effort by students enrolled in EEE3097S, EEE3098S, and EEE3099S at UCT.
+Tlangelani Tembe - TMBTLA001
+Khahule Singo - SNGKHA008
 
 ---
 
