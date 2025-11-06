@@ -30,6 +30,8 @@ By the end of this project, the micro-mouse should autonomously:
 ---
 
 ## 📁 Project Structure
+### Milestone 1
+
 
 
 ---
