@@ -32,7 +32,11 @@ By the end of this project, the micro-mouse should autonomously:
 ## 📁 Project Structure
 ### Milestone 1
 
+**M1 sim: The mouse moves in a straight line for 2m and stops. Encoders are used to ensure the mouse moves straight and for distance measurement using 8 ticks per revolution**
+**M1 practical: The mouse moves in a straight line for 1.5m and stops. The built-in gyro angle is connected to a PID controller to ensure minimal heading error and provide straight-line motion, while encoders measure distance at 8 ticks per revolution. The performance varied due to different lighting conditions.**
 
+**M2 sim: The mouse explores a maze in simulation. A mixture of gyro angle and TOF sensor reading is used to ensure the mouse can effectively explore and map a maze in simulation. Some functionalty is also added to remove any noise from the gyro and TOF sensors.**
+**M2 practical: The mouse explores a physical 6*4 maze. TOF sensors are used to ensure the mouse is able to move in a straight line, turns are time-based as encoder ticks, and the gyro proved inconsistent.**
 
 ---
 
